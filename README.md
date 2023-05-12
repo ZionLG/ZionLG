@@ -3,7 +3,7 @@
     <img alt="Liran's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ZionLG&show_icons=true" align="center" height="200">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZionLG&layout=compact&langs_count=6" align="center" height="200">
+    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZionLG&layout=compact&langs_count=10" align="center" height="200">
   </a>
 </p>
 <p align="center">
