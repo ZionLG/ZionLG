@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=ZionLG">
+    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=ZionLG&title=MutltiLanguage,Commits,Repositories">
   </a>
 </p>
 <p align="center">
