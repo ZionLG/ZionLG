@@ -6,5 +6,5 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats-six-kappa-25.vercel.app/api?username=ZionLG&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-stats-six-kappa-25.vercel.app/api/top-langs/?username=ZionLG&layout=compact&exclude_repo=github-readme-stats,thefirststrom,Warband-Mod&theme=gruvbox" />
+  <img src="https://github-readme-stats-six-kappa-25.vercel.app/api/top-langs/?username=ZionLG&layout=compact&exclude_repo=github-readme-stats,thefirststrom,Warband-Mod,Project-Overhaul-Redux,header_operations&theme=gruvbox" />
 </div>
